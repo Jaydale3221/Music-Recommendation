@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+spotipy
+python-dotenv
+pandas
+numpy
+librosa
+scikit-learn
+pytest
+requests
